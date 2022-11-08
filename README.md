@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Next.js**
 
-- 👨‍💻 All of my projects are available at [kamilstalinski.netlify.app](kamilstalinski.netlify.app)
+- 👨‍💻 All of my projects are available at [kamilstalinski.netlify.app](https://kamilstalinski.netlify.app/)
 
 - 📫 How to reach me **kamstal95@gmail.com**
 

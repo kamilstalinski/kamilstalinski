@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamil!</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
 
-- 🌱 I’m currently learning **React, Next.js** Also I'm working on Next.js website for printing company --> [seepoint](https://github.com/kamilstalinski/seepoint.pl)
+- 🌱 I’m currently learning **React, Next.js**. Also I'm working on Next.js website for printing company -->  [seepoint](https://github.com/kamilstalinski/seepoint.pl)
 
 - 👨‍💻 All of my projects are available at [kamilstalinski.netlify.app](https://kamilstalinski.netlify.app/)
 
